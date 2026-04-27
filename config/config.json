@@ -3,8 +3,8 @@
     "title": "Bukunola Akinsanya Portfolio",
     "base_url": "/",
     "favicon": "/images/favicon.png",
-    "logo": "/images/Bukunola Logo.png",
-    "logo_white": "/images/Bukunola-Logo-light.png",
+    "logo": "/images/Bukunola-dark.png",
+    "logo_white": "/images/Bukunola-light.png",
     "logo_width": "150",
     "logo_height": "39",
     "logo_text": "Bukunola"
