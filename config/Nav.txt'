@@ -1,0 +1,14 @@
+
+    {
+      "name": "Portfolio",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Categories",
+          "url": "/categories"
+        }
+      ]
+    } 
+
+Note: Use this to create Nav icon with drop down
