@@ -25,7 +25,8 @@ experience:
     - The Girl I Met" – Featured Narrative Poem
     - vWhat a Sad Love" – Narrative Poetry Highlight
     - Her Journey" – Poetry on Growth & Freedom
-    - A.I.D.A. Specialist – Strategic Narrative Conversion
+    - A.I.D.A. Specialist – Strategic Narrative Conversion 
+    - Strategic Communicator
 
 ---
 
