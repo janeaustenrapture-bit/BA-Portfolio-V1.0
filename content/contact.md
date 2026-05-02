@@ -1,20 +1,20 @@
 ---
 title: "Let’s, Talk </br> About You"
 description: "meta description"
-phone: "+211234565523"
-mail: "info@email.com"
-location: "9567 Turner Trace Apt. BC C3G8A4"
+phone: "+2349069739868"
+mail: "oluwabukunolaakinsanya3369@gmail.com"
+location: "Lagos, Nigeria"
 form_action: "#"
 layout: "contact"
 addresses:
   - icon: FaUserAlt
-    content: +211234565523
-    link: tel:+211234565523
+    content: +2349069739868
+    link: tel:+2349069739868
   - icon: FaMapMarkerAlt
-    content: info@email.com
-    link: mailto:info@email.com
+    content: oluwabukunolaakinsanya3369@gmail.com
+    link: mailto:oluwabukunolaakinsanya3369@gmail.com
   - icon: FaLocation
-    content: 9567 Turner Trace Apt. BC C3G8A4
+    content: Lagos, Nigeria
 
 draft: false
 ---

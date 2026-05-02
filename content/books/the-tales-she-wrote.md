@@ -5,6 +5,7 @@ image: /images/post/tales-she-wrote.jpg
 categories: ["books"]
 featured: true
 draft: false
+description: "A heartwarming children's book following an 8-year-old girl with a unique way of thinking."
 ---
 
 

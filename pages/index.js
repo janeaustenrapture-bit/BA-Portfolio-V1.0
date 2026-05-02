@@ -88,10 +88,11 @@ const Home = ({
                 <div className="rounded border border-border p-6 dark:border-darkmode-border">
                   <div className="row">
                     {books.map((book) => (
-                      <div className="mb-8 md:col-6" key={book.slug}>
-                        <Post post={book} />
-                      </div>
-                    ))}
+                    <div className="mb-8 md:col-6" key={book.slug}>
+                      <Post post={book} postPrefix="books" />
+                    </div>
+                      ))}    
+
                   </div>
                 </div>
               </div>
